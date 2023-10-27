@@ -192,3 +192,4 @@ jobs:
           registry: ${{ vars.DOCKER_REGISTRY }}
           platform: |
             linux/amd64
+            linux/arm64
