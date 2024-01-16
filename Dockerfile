@@ -113,5 +113,5 @@ LABEL org.opencontainers.image.title="reana-workflow-engine-snakemake"
 LABEL org.opencontainers.image.url="https://github.com/reanahub/reana-workflow-engine-snakemake"
 LABEL org.opencontainers.image.vendor="reanahub"
 # x-release-please-start-version
-LABEL org.opencontainers.image.version="0.9.2"
+LABEL org.opencontainers.image.version="0.9.3"
 # x-release-please-end
